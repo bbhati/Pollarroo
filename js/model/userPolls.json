@@ -1,0 +1,52 @@
+{
+	"name": "Bhagi",
+	"fbId": "1219289",
+	"polls":	[{
+		"question": "which place is more touristie",
+		"options": [
+			"Rome", "Paris", "Ibiza", "Kashmir"
+		],
+		"results": {
+			"status" : "pending",
+			"partcipantStatus" : {
+				"waiting": ["Roy"],
+				"completed": ["Ina", "mina", "dika", "Tina", "Fay", "Sia"],
+				"declined": ["Ray"]
+			},
+			"votes" : {
+				"Rome" : {
+				"count" : 3,
+				"voters" : ["Tina", "Fay", "Sia"],
+				"notes" : {"Tina" : "Unbeatable Architecture"}
+				},
+				"Paris" : {
+					"count" : 3,
+					"voters" : ["Ina", "mina", "dika"]
+				}
+			}	
+		}	
+	},{
+		"question": "which dress looks better on me",
+		"options": [
+			"img1/url/jahdkah", "img2/url/adl"
+		],
+		"results": {
+			"status" : "pending",
+			"partcipantStatus" : {
+				"waiting": ["Roy"],
+				"completed": ["Ina", "mina", "dika", "Tina", "Fay", "Sia"],
+				"declined": ["Ray"]
+			},
+			"votes" : {
+				"img1/url/jahdkah" : {
+				"count" : 3,
+				"voters" : ["Tina", "Fay", "Sia"]
+				},
+				"img2/url/adl" : {
+					"count" : 3,
+					"voters" : ["Ina", "mina", "dika"]
+				}
+			}	
+		}
+	}]
+}
